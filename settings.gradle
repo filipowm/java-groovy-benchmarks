@@ -1,0 +1,4 @@
+rootProject.name = 'java-groovy-benchmarks'
+
+include 'benchmarks', 'java', 'groovy', 'runner'
+
